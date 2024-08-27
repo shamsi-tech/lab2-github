@@ -3,3 +3,5 @@
 ### Third heading
 **Bold Text**\
 *Italic Text*\
+***Bold And Italic***\
+~~Oops, I made an error~~

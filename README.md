@@ -1,5 +1,5 @@
 # lab2-github
 ## Learning github
 ### Third heading
-**Bold Text**
-*Italic Text*
+**Bold Text**\
+*Italic Text*\

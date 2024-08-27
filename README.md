@@ -1,2 +1,2 @@
 # lab2-github
-Learning github
+## Learning github

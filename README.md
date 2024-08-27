@@ -1,3 +1,4 @@
 # lab2-github
 ## Learning github
-### third heading
+### Third heading
+_Bold Text
